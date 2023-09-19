@@ -7,7 +7,7 @@
 
 ## Connect with me  
   
-Telegram - @usename_owo
+Telegram - [@usename_owo](https://t.me/usename_owo)
 <br/> 
 Gmail - nalowo11h@gmail.com 
 
