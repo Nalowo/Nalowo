@@ -1,7 +1,7 @@
 ### <div align="center">My name is Vladislav Bukharkin</div>  
   
 
-- 🌱 I’m currently learning C++  
+- 🌱 I’m currently C++ developer
 
 <br/> 
 
