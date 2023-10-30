@@ -1,7 +1,7 @@
-### <div align="center">My name is Vladislav Bukharkin
-</div>  
-## My contacts  
-  
+### <div align="center">My name is Vladislav Bukharkin</div>  
+
+## My contacts 
+
 Telegram - [@usename_owo](https://t.me/usename_owo)
 <br/> 
 Gmail - nalowo11h@gmail.com 
