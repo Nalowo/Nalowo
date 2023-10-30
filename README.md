@@ -1,5 +1,6 @@
-### <div align="center">My name is Vladislav Bukharkin</div>  
-## Connect with me  
+### <div align="center">My name is Vladislav Bukharkin
+</div>  
+## My contacts  
   
 Telegram - [@usename_owo](https://t.me/usename_owo)
 <br/> 
