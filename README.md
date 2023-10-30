@@ -1,8 +1,6 @@
 ### <div align="center">My name is Vladislav Bukharkin</div>  
   
 
-- 🌱 I’m currently C++ developer
-
 <br/> 
 
 ## Connect with me  
