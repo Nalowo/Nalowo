@@ -1,4 +1,4 @@
-### <div align="center">My name is Vladislav Bukharkin  </div>  
+### <div align="center">My name is Vladislav  </div>  
 
 ## My contacts 
 
