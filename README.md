@@ -28,8 +28,7 @@ Gmail - nalowo11h@gmail.com
 
 
 ## Stats 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nalowo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Nalowo&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nalowo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>  
 
 <br/>  
