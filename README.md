@@ -1,8 +1,4 @@
 ### <div align="center">My name is Vladislav  </div>  
-
-## My contacts 
-<br/>  
-
 ## My Skill Set  
 ### Main  
 <div align="center">  
