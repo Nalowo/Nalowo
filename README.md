@@ -1,10 +1,6 @@
 ### <div align="center">My name is Vladislav  </div>  
 
 ## My contacts 
-
-<br/> 
-LeetCode - [Nalowo](https://leetcode.com/u/Nalowo/)
-
 <br/>  
 
 ## My Skill Set  
