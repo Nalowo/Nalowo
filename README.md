@@ -1,9 +1,3 @@
-<!--
-  Профиль Nalowo/Nalowo — рендерится на https://github.com/Nalowo
-  Всё, что в <div align="center"> — центрируется. Ссылки на репозитории — реальные.
-  Тему статистики можно поменять одним словом: замени tokyonight на dark / radical / github_dark и т.д.
--->
-
 <div align="center">
 
 # Vladislav «Vlad» Nalowo
@@ -24,7 +18,6 @@
 
 - 🧩 C++ developer working on **CAD / PLM geometric modeling** — geometry, algorithms, performance.
 - 🐧 Moving deeper into **Linux kernel & low-level systems engineering** (loadable modules, netfilter, debugging with QEMU + GDB).
-- 📡 Run a **self-hosted infrastructure** stack: xray / VLESS REALITY, HAProxy SNI routing, Jitsi, ACME automation.
 - 🛠 Comfortable across the stack — from kernel modules and `std::execution` down to Boost.Asio proxies and Laravel back-ends.
 - 📚 Currently studying **Linux kernel development** and prepping for a systems / network engineering role.
 ---
