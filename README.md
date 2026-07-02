@@ -27,9 +27,6 @@
 - 📡 Run a **self-hosted infrastructure** stack: xray / VLESS REALITY, HAProxy SNI routing, Jitsi, ACME automation.
 - 🛠 Comfortable across the stack — from kernel modules and `std::execution` down to Boost.Asio proxies and Laravel back-ends.
 - 📚 Currently studying **Linux kernel development** and prepping for a systems / network engineering role.
-
-> ℹ️ Правь этот блок под себя — здесь только то, что не жалко видеть публично.
-
 ---
 
 ## 🧰 Tech Stack
