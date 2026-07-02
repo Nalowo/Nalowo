@@ -93,7 +93,10 @@
 
 <div align="center">
 
+<!--
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nalowo&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
+-->
+
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nalowo&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
 
 <img src="https://streak-stats.demolab.com/?user=Nalowo&hide_border=true&theme=tokyonight" />
